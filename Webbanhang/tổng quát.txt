@@ -1,0 +1,4 @@
+Nhập file SQL 
+
+tai khoan :admin
+matkhau :1 
